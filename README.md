@@ -16,7 +16,7 @@ This project analyzes one year of operational expenses for a residential buildin
 
 ## Dataset
 
-**File**: `edited.xlsx`
+**File**: `building.xlsx`
 **Structure**:
 
 * `Month`: Month of expense
@@ -80,6 +80,7 @@ This project analyzes one year of operational expenses for a residential buildin
 ├── building.xlsx                # Cleaned data
 ├── building_expense_analysis.ipynb  # Full code & analysis
 ├── report_visuals/           # Generated charts
+├── Document of what we did   # Doc file
 ├── README.md                 # This file
 ```
 
